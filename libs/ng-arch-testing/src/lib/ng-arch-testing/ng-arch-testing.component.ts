@@ -2,10 +2,10 @@ import { ChangeDetectionStrategy, Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
 @Component({
-  selector: 'lib-ng-arch',
+  selector: 'lib-ng-arch-testing',
   imports: [CommonModule],
-  templateUrl: './ng-arch.component.html',
-  styleUrl: './ng-arch.component.scss',
+  templateUrl: './ng-arch-testing.component.html',
+  styleUrl: './ng-arch-testing.component.scss',
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
-export class NgArchComponent {}
+export class NgArchTestingComponent {}

@@ -1,8 +1,8 @@
 export default {
-  displayName: 'ng-arch',
+  displayName: 'ng-arch-testing',
   preset: '../../jest.preset.js',
   setupFilesAfterEnv: ['<rootDir>/src/test-setup.ts'],
-  coverageDirectory: '../../coverage/libs/ng-arch',
+  coverageDirectory: '../../coverage/libs/ng-arch-testing',
   transform: {
     '^.+\\.(ts|mjs|js|html)$': [
       'jest-preset-angular',

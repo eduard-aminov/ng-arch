@@ -1,5 +1,5 @@
 {
-  "name": "ng-arch",
+  "name": "ng-arch-testing",
   "version": "0.0.1",
   "peerDependencies": {
     "@angular/common": "^19.1.0",

@@ -15,7 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "ng-arch": ["libs/ng-arch/src/index.ts"]
+      "ng-arch-testing": ["libs/ng-arch-testing/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
