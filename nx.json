@@ -9,7 +9,7 @@
         "fallbackCurrentVersionResolver": "disk"
       }
     },
-    "projects": ["ng-arch/*"],
+    "projects": ["ng-arch"],
     "projectsRelationship": "independent",
     "changelog": {
       "automaticFromRef": true,
